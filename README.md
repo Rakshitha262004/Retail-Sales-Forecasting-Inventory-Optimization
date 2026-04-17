@@ -82,7 +82,7 @@ streamlit run app/app.py
 ### 🔹 UI Outputs
 ![UI_1](outputs/ui_p1_1.png)
 ![UI_2](outputs/ui_p1_2.png)
-![UI_3](outputs/ui_p1_3.png)
+
 
 ---
 
